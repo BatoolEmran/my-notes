@@ -1,5 +1,5 @@
 # my-notes
- # Introduvtion about me
+ # Introduction about me
 
 1. ### Name: Batool Emran
 2. ### Age: 30 years old
