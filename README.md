@@ -4,7 +4,7 @@
 1. ### Name: Batool Emran
 2. ### Age: 30 years old
 3. ### Education: Bachelor degree in Computer Science
-4. ![ME](C:\Users\Student\Desktop)
+4. ![ME](./bbbbb.jpeg)
 
 
 
@@ -13,3 +13,5 @@
 * ### CLI vs GUI
 * ### VCS "Git"
 * ### GitHub and markdown
+
+# [My repo link](https://github.com/BatoolEmran)
