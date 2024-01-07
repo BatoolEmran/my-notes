@@ -8,8 +8,8 @@
 
 
 
-# What I learned form today's lecture:
+# What I have learned form today's lecture:
 
-* CLI vs GUI
-* VCS "Git"
-* GitHub and markdown
+* ### CLI vs GUI
+* ### VCS "Git"
+* ### GitHub and markdown
